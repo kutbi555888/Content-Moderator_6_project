@@ -1,0 +1,53 @@
+my_env/
+.venv
+ __pycache__/
+ *.pyc
+ .ipynb_checkpoints/
+
+ Data/
+ Models/baseline_models/
+ Models/improvement_models/
+ Models/best_model
+# results/
+# visuals/
+# logs/*.log
+
+
+
+# Artifacts
+*.joblib
+*.pkl
+*.csv
+*.zip
+
+
+
+
+
+
+
+# cat > .gitignore <<'EOF'
+# # ===== Python =====
+# __pycache__/
+# *.pyc
+*.pyo
+
+# ===== Environments =====
+# .venv/
+# venv/
+# my_env/
+# env/
+
+# ===== OS / Editor =====
+.DS_Store
+Thumbs.db
+.vscode/
+
+# ===== Results / Artifacts (ixtiyoriy) =====
+# results/
+# visuals/
+# logs/
+
+# ===== Models (ixtiyoriy: agar LFS bilan saqlasangiz, bu qatorni yozmang) =====
+# Models/
+# EOF

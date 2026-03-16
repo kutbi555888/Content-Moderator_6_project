@@ -1,0 +1,14 @@
+2026-03-15 11:53:23,041 | INFO | 🚀 Moderatsiya ML loyihasi boshlandi
+2026-03-15 11:53:23,043 | INFO | 📥 Wikipedia dan ma'lumotlarni yig'ish boshlandi
+2026-03-15 11:54:09,010 | INFO | ✅ Wikipedia ma'lumotlarini yig'ish tugadi
+2026-03-15 12:03:34,554 | INFO | 📥 Data Loading jarayoni boshlandi
+2026-03-15 12:12:50,331 | INFO | dataset shape: (30613, 2)
+2026-03-15 12:13:37,259 | INFO | ✅ Data Loading jarayoni tugadi
+2026-03-15 16:00:57,638 | INFO | 📥 Baseline EDA jarayoni boshlandi
+2026-03-15 16:01:26,903 | INFO | 📥 Baseline EDA jarayoni tugadi
+2026-03-15 16:02:54,457 | INFO | 📥 Baseline preprocess jarayoni boshlandi
+2026-03-15 16:03:13,689 | INFO | 📥 Baseline preprocess jarayoni tugadi
+2026-03-15 16:04:39,068 | INFO | 📥 feature extraction jarayoni boshlandi
+2026-03-15 16:05:05,108 | INFO | 📥 feature extraction jarayoni tugadi
+2026-03-15 16:05:57,568 | INFO | 📥 baseline model train jarayoni boshlandi
+2026-03-15 16:06:18,715 | INFO | 📥 baseline model train jarayoni tugadi
